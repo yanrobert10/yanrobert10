@@ -7,7 +7,7 @@
 [![Intagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yanrobert.dev?igsh=MWR4OWx1czNuYmRsbQ%3D%3D&utm_source=qr)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanrobert10&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanrobert10&show_icons=true&theme=dracula)
 
 ## Tecnologias que eu uso no meu dia a dia
 
