@@ -18,7 +18,9 @@
     <img alt="JavaScript" align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
     <img alt="Bootstrap" align="center" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img alt="Express.js" align="center" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-
+    <img alt="JAVA" align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img alt="SpringBot" align="center" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+    <img alt="MySQL" align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div><br/>
 
 Apaixonado por tecnologia e educação, como ela pode está mudando completamente a pespectiva de vida.
